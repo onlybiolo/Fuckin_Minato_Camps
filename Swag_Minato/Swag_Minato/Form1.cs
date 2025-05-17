@@ -16,5 +16,10 @@ namespace Swag_Minato
         {
             InitializeComponent();
         }
+
+        private void btn_Impostazioni_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

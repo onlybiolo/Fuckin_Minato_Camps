@@ -28,13 +28,34 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.btn_Impostazioni = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // btn_Impostazioni
+            // 
+            this.btn_Impostazioni.Location = new System.Drawing.Point(271, 183);
+            this.btn_Impostazioni.Name = "btn_Impostazioni";
+            this.btn_Impostazioni.Size = new System.Drawing.Size(258, 84);
+            this.btn_Impostazioni.TabIndex = 0;
+            this.btn_Impostazioni.Text = "IMPOSTAZIONI";
+            this.btn_Impostazioni.UseVisualStyleBackColor = true;
+            this.btn_Impostazioni.Click += new System.EventHandler(this.btn_Impostazioni_Click);
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btn_Impostazioni);
+            this.Name = "Form1";
             this.Text = "Form1";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Button btn_Impostazioni;
     }
 }
 

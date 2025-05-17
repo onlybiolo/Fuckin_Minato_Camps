@@ -1,0 +1,10 @@
+C:\Users\biolo\Desktop\3BII\informatica\C#\vari\Fuckin_Minato_Camps\Swag_Minato\Swag_Minato\bin\Debug\Swag_Minato.exe.config
+C:\Users\biolo\Desktop\3BII\informatica\C#\vari\Fuckin_Minato_Camps\Swag_Minato\Swag_Minato\bin\Debug\Swag_Minato.exe
+C:\Users\biolo\Desktop\3BII\informatica\C#\vari\Fuckin_Minato_Camps\Swag_Minato\Swag_Minato\bin\Debug\Swag_Minato.pdb
+C:\Users\biolo\Desktop\3BII\informatica\C#\vari\Fuckin_Minato_Camps\Swag_Minato\Swag_Minato\obj\Debug\Swag_Minato.csproj.AssemblyReference.cache
+C:\Users\biolo\Desktop\3BII\informatica\C#\vari\Fuckin_Minato_Camps\Swag_Minato\Swag_Minato\obj\Debug\Swag_Minato.Form1.resources
+C:\Users\biolo\Desktop\3BII\informatica\C#\vari\Fuckin_Minato_Camps\Swag_Minato\Swag_Minato\obj\Debug\Swag_Minato.Properties.Resources.resources
+C:\Users\biolo\Desktop\3BII\informatica\C#\vari\Fuckin_Minato_Camps\Swag_Minato\Swag_Minato\obj\Debug\Swag_Minato.csproj.GenerateResource.cache
+C:\Users\biolo\Desktop\3BII\informatica\C#\vari\Fuckin_Minato_Camps\Swag_Minato\Swag_Minato\obj\Debug\Swag_Minato.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Desktop\3BII\informatica\C#\vari\Fuckin_Minato_Camps\Swag_Minato\Swag_Minato\obj\Debug\Swag_Minato.exe
+C:\Users\biolo\Desktop\3BII\informatica\C#\vari\Fuckin_Minato_Camps\Swag_Minato\Swag_Minato\obj\Debug\Swag_Minato.pdb

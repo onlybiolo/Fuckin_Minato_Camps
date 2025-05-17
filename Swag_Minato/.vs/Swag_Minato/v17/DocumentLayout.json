@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\biolo\\Desktop\\3BII\\informatica\\C#\\vari\\Swag_Minato\\",
+  "WorkspaceRootPath": "C:\\Users\\biolo\\Desktop\\3BII\\informatica\\C#\\vari\\Fuckin_Minato_Camps\\Swag_Minato\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15319A58-134C-4F9D-AC0C-8FE6966F4008}|Swag_Minato\\Swag_Minato.csproj|c:\\users\\biolo\\desktop\\3bii\\informatica\\c#\\vari\\swag_minato\\swag_minato\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{15319A58-134C-4F9D-AC0C-8FE6966F4008}|Swag_Minato\\Swag_Minato.csproj|c:\\users\\biolo\\desktop\\3bii\\informatica\\c#\\vari\\fuckin_minato_camps\\swag_minato\\swag_minato\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15319A58-134C-4F9D-AC0C-8FE6966F4008}|Swag_Minato\\Swag_Minato.csproj|solutionrelative:swag_minato\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15319A58-134C-4F9D-AC0C-8FE6966F4008}|Swag_Minato\\Swag_Minato.csproj|c:\\users\\biolo\\desktop\\3bii\\informatica\\c#\\vari\\fuckin_minato_camps\\swag_minato\\swag_minato\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{15319A58-134C-4F9D-AC0C-8FE6966F4008}|Swag_Minato\\Swag_Minato.csproj|solutionrelative:swag_minato\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -23,10 +27,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Progettazione]",
-              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\3BII\\informatica\\C#\\vari\\Swag_Minato\\Swag_Minato\\Form1.cs",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\3BII\\informatica\\C#\\vari\\Fuckin_Minato_Camps\\Swag_Minato\\Swag_Minato\\Form1.cs",
               "RelativeDocumentMoniker": "Swag_Minato\\Form1.cs",
-              "ToolTip": "C:\\Users\\biolo\\Desktop\\3BII\\informatica\\C#\\vari\\Swag_Minato\\Swag_Minato\\Form1.cs [Progettazione]",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\3BII\\informatica\\C#\\vari\\Fuckin_Minato_Camps\\Swag_Minato\\Swag_Minato\\Form1.cs",
+              "RelativeToolTip": "Swag_Minato\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAD4vxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:39:13.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\3BII\\informatica\\C#\\vari\\Fuckin_Minato_Camps\\Swag_Minato\\Swag_Minato\\Form1.cs",
+              "RelativeDocumentMoniker": "Swag_Minato\\Form1.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\3BII\\informatica\\C#\\vari\\Fuckin_Minato_Camps\\Swag_Minato\\Swag_Minato\\Form1.cs [Progettazione]",
               "RelativeToolTip": "Swag_Minato\\Form1.cs [Progettazione]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T06:28:43.284Z",
